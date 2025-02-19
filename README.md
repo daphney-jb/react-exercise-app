@@ -13,7 +13,7 @@ A simple React-based exercise tracker that allows users to select different exer
 
 ## Installation & Setup  
 
-### **1. Clone the repository**
+### Clone the repository
 ```sh
 git clone https://github.com/your-username/exercise-app.git
 

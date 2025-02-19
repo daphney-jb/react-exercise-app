@@ -11,19 +11,18 @@ A simple React-based exercise tracker that allows users to select different exer
 - Start and reset a timer for duration-based exercises.  
 - Smooth UI with centered design and clean buttons.  
 
-## 🛠️ Installation & Setup  
+## Installation & Setup  
 
 ### **1. Clone the repository**
 ```sh
 git clone https://github.com/your-username/exercise-app.git
-cd exercise-app
 
-2. Install dependencies
-sh
+Install dependencies
+``sh
 npm install
 
-3. Run the app
-sh
+Run the app
+``sh
 npm start
 
 This will start the development server, and the app will be available at http://localhost:3000.
@@ -43,4 +42,4 @@ exercise-app/
 │── README.md
 │── package.json
 
-License# react-exercise-app
+License

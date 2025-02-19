@@ -1,0 +1,67 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #DBC9BD;
+}
+
+.content-box {
+  text-align: center;
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: #FFF9F5;
+  width: 50%;
+  box-shadow: 0 4px 8px rgba(246, 225, 211, 0.1);
+}
+
+.exercise-button {
+  display: block;
+  margin: 10px auto;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  background-color: #6FA5A8;
+  color: white;
+  border-radius: 5px;
+  transition: background 0.3s ease;
+}
+
+.exercise-button:hover {
+  background-color:#84d4d8 ;
+}
+
+.reset-button {
+  display: block;
+  margin: 10px auto;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  background-color: #C54644;
+  color: white;
+  border-radius: 5px;
+  transition: background 0.3s ease;
+}
+
+.reset-button:hover {
+  background-color: #85302E;
+}
+
+.back-button {
+  margin-top: 20px;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  background-color: #6c757d;
+  color: white;
+  border-radius: 5px;
+  transition: background 0.3s ease;
+}
+
+.back-button:hover {
+  background-color: #545b62;
+}
